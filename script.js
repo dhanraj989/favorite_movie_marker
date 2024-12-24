@@ -1,4 +1,4 @@
-const API_URL = "http://www.omdbapi.com/?i=tt3896198&apikey=3e9a54d1"; // OMDB API Key
+const API_URL = "https://www.omdbapi.com/?i=tt3896198&apikey=3e9a54d1"; // OMDB API Key
 const BACKEND_URL = "https://backend-favourite-movies.onrender.com"; // Flask/FastAPI backend URL
 
 const searchInput = document.getElementById("searchInput");
